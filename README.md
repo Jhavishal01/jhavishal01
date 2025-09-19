@@ -1,24 +1,24 @@
-🌟 Tech Explorer | Web Designer | Aspiring Data Analyst
+🧭 Journey So Far
 
-👨‍💻 About Me
+💡 Driven by a passion for blending creativity with technology.
+📖 Currently expanding knowledge in Python, Web Development, and Data Analytics.
+🚀 Exploring the fields of AI/ML and UI/UX design to build smarter, user-friendly solutions.
+🤝 Strong believer in collaboration, lifelong learning, and creating projects with real impact.
 
-🚀 I’m passionate about building creative and impactful projects using technology.
-📚 Currently learning Python, Web Development, and Data Analytics.
-🌱 Exploring AI/ML and UI/UX design to enhance my skills further.
+🛠️ Tools of My Trade
 
-⚙️ My Tech Stack
-
-Languages: Python, C, C++
+Programming: Python, C, C++
 
 Web Development: HTML, CSS, JavaScript, Tailwind CSS
 
-Data Science Tools: NumPy, Pandas, Matplotlib
+Data & Analytics: NumPy, Pandas, Matplotlib
 
-Tools & Platforms: Git, GitHub, VS Code, Jupyter Notebook
+Workflow & Platforms: Git, GitHub, VS Code, Jupyter Notebook
 
-🎯 Interests
+🎨 Life Beyond Code
 
-🎨 Designing websites, photography, and writing.
-🎶 Music, travel, and exploring new creative fields.
+📷 Capturing the world through photography.
+✍️ Expressing creativity with design and writing.
+🎶 Finding inspiration in music, travel, and artistic exploration.
 
 ✨ Always open to collaboration and learning opportunities!
