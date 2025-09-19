@@ -1,3 +1,5 @@
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhavishal_01?igsh=MWJjNnprMTFzMWdqeA==)
+
 🧭 Journey So Far
 
 💡 Driven by a passion for blending creativity with technology.
